@@ -1,53 +1,62 @@
-# R2Client - Cloudflare R2 存储桌面客户端
+# R2Client - Cloudflare R2 Storage Desktop Client
 
-R2Client 是一个专门为 Cloudflare R2 存储服务设计的现代化桌面客户端，提供了直观的图形界面，让您可以轻松管理和操作 R2 存储桶中的文件。官网网站 https://r2client.com/
+R2Client is a modern desktop client specifically designed for Cloudflare R2 storage service, providing an intuitive graphical interface that allows you to easily manage and operate files in R2 buckets.  website: https://r2client.com/
 
-## 主要功能
+## Key Features
 
-### 文件管理
-- 支持文件上传、下载和删除操作
-- 批量文件传输功能
-- 实时显示传输进度和状态
-- 支持文件预览功能
-- 可暂停和恢复文件传输
+### File Management
 
-### 存储桶管理
-- 轻松创建和管理多个存储桶
-- 存储桶权限配置
-- 存储桶统计信息查看
+![01.png](https://upload.ezprompt.org/demo/01.png)
 
-### 分享功能
-- 生成文件公开访问链接
-- 支持多种分享格式（Markdown、HTML、BBCode等）
-- 一键复制分享链接
+- Support file upload, download, and deletion operations
+- Batch file transfer functionality
+- Real-time transfer progress and status display
+- File preview support
+- Pause and resume file transfers
 
-### 高级特性
-- 多任务并发上传
-- 断点续传支持
-- 文件缓存管理
-- 自定义配置选项
+### Bucket Management
 
-### 用户友好
-- 现代化的用户界面
-- 多语言支持
-- 深色/浅色主题
-- 拖拽上传支持
+![11.png](https://upload.ezprompt.org/demo/11.png)
 
-## 技术特点
+- Easy creation and management of multiple buckets
+- Bucket permission configuration
+- View bucket statistics
 
-- 使用 Tauri + React 开发，确保高性能和低资源占用
-- 支持 Windows、macOS 和 Linux 等多个平台
-- 采用 AWS S3 兼容接口，确保可靠的文件传输
-- 本地缓存机制，提升访问速度
+### Sharing Features
 
-## 系统要求
+![10.png](https://upload.ezprompt.org/demo/10.png)
 
-- Windows 10 及以上
-- macOS 10.15 及以上
-- 主流 Linux 发行版
+- Generate public access links for files
+- Support multiple sharing formats (Markdown, HTML, BBCode, etc.)
+- One-click link copying
 
-## 隐私说明
+### Advanced Features
+- Concurrent multi-task uploads
+- Resume broken transfers
+- File cache management
+- Custom configuration options
 
-- 所有数据传输均为端到端加密
-- 不收集任何用户隐私数据
-- 所有配置数据均存储在本地
+### User-Friendly
+- Modern user interface
+- Multi-language support
+- Dark/Light theme
+- Drag-and-drop upload support
+
+## Technical Features
+
+- Developed with Tauri + React, ensuring high performance and low resource usage
+- Support for Windows, macOS, and Linux platforms
+- Uses AWS S3 compatible interface for reliable file transfers
+- Local caching mechanism for improved access speed
+
+## System Requirements
+
+- Windows 10 or later
+- macOS 10.15 or later
+- Major Linux distributions
+
+## Privacy Statement
+
+- All data transfers are end-to-end encrypted
+- No collection of user privacy data
+- All configuration data is stored locally
