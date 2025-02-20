@@ -1,6 +1,6 @@
-# R2Box - Cloudflare R2 存储桌面客户端
+# R2Client - Cloudflare R2 存储桌面客户端
 
-R2Box 是一个专门为 Cloudflare R2 存储服务设计的现代化桌面客户端，提供了直观的图形界面，让您可以轻松管理和操作 R2 存储桶中的文件。
+R2Client 是一个专门为 Cloudflare R2 存储服务设计的现代化桌面客户端，提供了直观的图形界面，让您可以轻松管理和操作 R2 存储桶中的文件。官网网站 https://r2client.com/
 
 ## 主要功能
 
