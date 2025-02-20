@@ -16,8 +16,6 @@ R2Client is a modern desktop client specifically designed for Cloudflare R2 stor
 
 ### Bucket Management
 
-![11.png](https://upload.ezprompt.org/demo/11.png)
-
 - Easy creation and management of multiple buckets
 - Bucket permission configuration
 - View bucket statistics
@@ -31,6 +29,18 @@ R2Client is a modern desktop client specifically designed for Cloudflare R2 stor
 - One-click link copying
 
 ### Advanced Features
+
+
+![02.png](https://upload.ezprompt.org/demo/02.png)
+![03.png](https://upload.ezprompt.org/demo/03.png)
+![04.png](https://upload.ezprompt.org/demo/04.png)
+![05.png](https://upload.ezprompt.org/demo/05.png)
+![06.png](https://upload.ezprompt.org/demo/06.png)
+![07.png](https://upload.ezprompt.org/demo/07.png)
+![08.png](https://upload.ezprompt.org/demo/08.png)
+![09.png](https://upload.ezprompt.org/demo/09.png)
+
+
 - Concurrent multi-task uploads
 - Resume broken transfers
 - File cache management
